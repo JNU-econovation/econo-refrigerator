@@ -39,5 +39,4 @@ npm install
 | -------- | ------------------------------------ | ---------------------------------------- |
 | Styles   | 사용한 css property 정리    | [Link](./Documents/Styles.md)   |
 | Learn  | 프론트엔드 개발 지식 습득 과정  | [Link](./Documents/Learn.md)  |
-| Router   |  react-router-dom을 이용한 다중 페이지 관리  | [Link](./Documents/Router.md)   |
 | Review | 회고, 느낀 점    | [Link](./Documents/Review.md) |
